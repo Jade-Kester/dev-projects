@@ -210,25 +210,8 @@ Potential improvements include:
 
 # Screenshots
 
-Add screenshots inside the `screenshots` folder.
+Screenshots can be viewed in the `Screenshots` Folder.
 
-Example:
-
-```
-screenshots/
-    main-window.png
-    generated-password.png
-```
-
-Then display them in the README.
-
-```markdown
-![Main Window](screenshots/main-window.png)
-
-![Generated Password](screenshots/generated-password.png)
-```
-
----
 
 # Learning Outcomes
 
