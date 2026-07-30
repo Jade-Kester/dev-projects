@@ -69,6 +69,7 @@ This project serves as a beginner-friendly demonstration of:
 ```
 Basic-Password-Generator/
 │
+├── Basic Password Generator Flowchart.png
 ├── password_generator.py
 ├── README.md
 └── screenshots/
