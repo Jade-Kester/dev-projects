@@ -212,6 +212,10 @@ resolves the path automatically for both `python main.py` and the frozen
 
 **Jade Kester Marcelo**
 
+Computer Engineering Graduate
+
+Python • Software Development • Cybersecurity
+
 ## License
 
 [MIT](LICENSE) — do whatever you'd like with it, just don't hold the author
