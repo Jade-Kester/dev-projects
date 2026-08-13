@@ -1,0 +1,3 @@
+-r requirements.txt
+# Only needed to build the standalone .exe - see README.md "Building the executable".
+pyinstaller>=6.0.0

@@ -1,0 +1,4 @@
+# Runtime dependency - handles all password encryption (Fernet/AES).
+# tkinter and sqlite3 ship with the Python standard library, so they
+# are not listed here.
+cryptography>=42.0.0
